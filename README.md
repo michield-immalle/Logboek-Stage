@@ -18,6 +18,11 @@
 	Datum: 01/10	Klas:6ITN
 			
 
+1.	Werking van Proxmox, het is een programma dat spams en mails kan blackliste waardoor ze sommige mails niet aankrijgen.
+2.	De 3 pc die gisteren werden geboot hadden we vandaag klaargemaakt.
+3.	Nieuw aangekochte switch booten en 6 ethernet poorten een naam geven zodat ze makkelijk te verbinden zijn met de 6 acces points voor de wifi.
+4.	Switch plaatsen in een school. Een daar de accespoints verwisselen van de ouden naar de nieuwe switch.
+5.	Een slot op de achterkant van een oude switch steken zodat er meer bit doorkan.
 
 
 
