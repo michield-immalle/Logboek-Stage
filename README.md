@@ -1,1 +1,51 @@
 # Logboek-Stage
+ 
+	Naam:	Michiel Dries		Nr:3
+	Vak: IT gip
+	Datum: 30/09	Klas:6ITN
+			
+
+
+1.	3 nieuwe aangekochten thin clients checken of ze werken en aansluiten aan het netwerk
+2.	De Thin clients koppelen aan het netwerk zodat ze de benodigde software hebben.
+3.	Uitleg gekregen hoe hun LAN eruit ziet en hun “datacenter” bekeken.
+4.	De werking van hun VLAN
+5.	Ze hebben ook in malle 16 acces points voor hun wifi waar ik er 1 mocht bestuderen hoe het eruit zag en hoe het werkte.
+ 
+ 
+	Naam:	Michiel Dries		Nr:3
+	Vak: IT gip
+	Datum: 01/10	Klas:6ITN
+			
+
+
+
+
+ 
+ 
+	Naam:	Michiel Dries		Nr:3
+	Vak: IT gip
+	Datum: 02/10	Klas:6ITN
+			
+
+
+
+
+ 
+ 
+	Naam:	Michiel Dries		Nr:3
+	Vak: IT gip
+	Datum: 03/10	Klas:6ITN
+			
+
+
+
+
+ 
+ 
+	Naam:	Michiel Dries		Nr:3
+	Vak: IT gip
+	Datum: 04/10	Klas:6ITN
+			
+
+
