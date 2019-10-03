@@ -32,6 +32,9 @@
 	Vak: IT gip
 	Datum: 02/10	Klas:6ITN
 			
+1.	Printmodule in een bedrijf vervangen
+2.	Monitor stand Instellen.
+3.	Laptops externe geheugens vervangen door ssd.
 
 
 
