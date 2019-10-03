@@ -45,6 +45,11 @@
 	Vak: IT gip
 	Datum: 03/10	Klas:6ITN
 			
+1.	2 monitoren instellen
+2.	Een thin client vervangen. 9.30
+3.	Een tweede thin client vervangen 13.30
+4.	Monitor stand maken.
+5.	Desktop instellen voor de kleuterschool
 
 
 
